@@ -1,0 +1,15 @@
+@import url(css/header.css);
+@import url(css/apresentacao.css);
+@import url(css/categorias.css);
+
+body{
+    display: flex;
+    flex-direction: column;
+    width: 100vw;
+    margin: 0;
+    padding: 0;
+}
+*{
+    font-family: 'Montserrat';
+    text-decoration: none;
+}
