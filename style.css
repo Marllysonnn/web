@@ -1,15 +1,24 @@
 @import url(css/header.css);
-@import url(css/apresentacao.css);
-@import url(css/categorias.css);
+@import url(css/paginaInicial.css);
+@import url(css/quemSomos.css);
+@import url(css/solucao.css);
+@import url(css/modelo.css);
+@import url(css/footer.css);
 
 body{
     display: flex;
     flex-direction: column;
+    justify-content: flex-start;
     width: 100vw;
+    height: 100vh;
     margin: 0;
-    padding: 0;
+    overflow-x: hidden;
+}
+@font-face {
+    font-family: 'Inter';
+    src: url('fonts/Inter-Italic-VariableFont_opsz\,wght.ttf');
 }
 *{
-    font-family: 'Montserrat';
+    font-family: 'Inter';
     text-decoration: none;
 }

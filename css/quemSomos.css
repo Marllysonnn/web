@@ -1,0 +1,16 @@
+#nos, #quem{
+    display: flex;
+    margin:  3em 10em;
+}
+#nos{
+    flex-wrap: wrap;
+    justify-content: space-around;
+    gap: 2em;
+}
+#nos img{
+    width: 12em;
+    height: 12em;
+}
+#quem{
+    flex-direction: column;
+}

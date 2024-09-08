@@ -1,0 +1,8 @@
+#modelo{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+#modelo img{
+    width: 75%;
+}
