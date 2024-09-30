@@ -1,0 +1,20 @@
+#processos, #ideacao{
+    margin:  3em 10em;
+}
+.fase h1, #ideacao  h2 {
+    color: rgb(73, 102, 255);
+}
+.fase h2 {
+    color: rgb(73, 146, 255);
+}
+.fase {
+    background: #fff;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+.acoes {
+    margin-top: 10px;
+    padding-left: 20px;
+}

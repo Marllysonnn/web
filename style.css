@@ -4,6 +4,8 @@
 @import url(css/solucao.css);
 @import url(css/modelo.css);
 @import url(css/footer.css);
+@import url(css/processos.css);
+@import url(css/documentos.css);
 
 body{
     display: flex;
