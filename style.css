@@ -16,6 +16,10 @@ body{
     margin: 0;
     overflow-x: hidden;
 }
+::-webkit-scrollbar{
+    display: none;
+}
+
 @font-face {
     font-family: 'Inter';
     src: url('fonts/Inter-Italic-VariableFont_opsz\,wght.ttf');

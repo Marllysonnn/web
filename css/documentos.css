@@ -1,4 +1,4 @@
-#documentos{
+#documentos, #img-trello{
     margin:  3em 10em;
     display: flex;
     justify-content: center;
@@ -15,4 +15,14 @@
 }
 #link img{
     width: 5em;
+}
+
+#img-trello {
+    align-items: center;
+    flex-direction: column;
+    gap: 1em;
+}
+
+#img-trello img{
+    width: 80%;
 }
